@@ -1,3 +1,3 @@
 # Sources
-This repository consists of my notes to Data science
+This repository consists of my notes on Data science
 Nothing much. Just checking
